@@ -8,8 +8,8 @@ In this Project, i have used HTML, CSS and Tailwind CSS  creatd  a fully respons
 
 ## <span style="color:red"> **Website Preview-->**</span>
 ![Home-Page](./Thumnails/Thumbnail-1.png)
-![Home-Page](./Thumnails/Thumbnail-2.png)
-![Home-Page](./Thumnails/Thumbnail-3.png)
-![Home-Page](./Thumnails/Thumbnail-4.png)
+![Banner](./Thumnails/Thumbnail-2.png)
+![Payment-section](./Thumnails/Thumbnail-3.png)
+![Card-section](./Thumnails/Thumbnail-4.png)
 
 ## Thank you for visiting.. also ckeck-out my next Projects & please share your valuable Feedback 👍👍    
